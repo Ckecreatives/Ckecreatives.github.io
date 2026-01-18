@@ -1,6 +1,6 @@
 # CKE Creatives
 
-Welcome to **CKE Creatives** – a dynamic talent group showcasing:
+Welcome to **CKE Dancers** – a dynamic talent group showcasing:
 
 - 💃 Dancing  
 - 🎭 Acting & Skits  
@@ -11,15 +11,16 @@ We perform at events, online shows, and creative collaborations.
 
 ## Watch Us
 
-- YouTube: [Your Channel](#)  
-- TikTok: [Your TikTok](#)  
-- Instagram: [Your Instagram](#)  
+- YouTube: [CKE Dancers]  
+- TikTok: [CKE Dancers]
+- Instagram: [CKE Dancers]
+- Facebook: [CKE Dancers]  
 
 ## Contact
 
 - WhatsApp: 0797652757  
-- Email: ckedancers@gmail.com  
+- Email: clintonkevoemjey@gmail.com  
 
 ---
 
-© 2026 CKE Creatives. All Rights Reserved.
+© 2026 CKE Dancers. All Rights Reserved.

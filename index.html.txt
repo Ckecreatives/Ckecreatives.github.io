@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CKE Dancers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin:0;
+      background:#0b0b0b;
+      color:white;
+      font-family: Arial, sans-serif;
+      text-align:center;
+    }
+    header {
+      padding:40px 20px;
+      background:linear-gradient(135deg,#ff0055,#ff9900);
+    }
+    h1 {
+      font-size:38px;
+      margin:0;
+    }
+    h3 {
+      font-weight:normal;
+    }
+    section {
+      padding:25px 15px;
+    }
+    .card {
+      background:#1a1a1a;
+      margin:15px 0;
+      padding:20px;
+      border-radius:15px;
+    }
+    a {
+      color:#ff9900;
+      text-decoration:none;
+      font-weight:bold;
+    }
+    footer {
+      padding:15px;
+      background:#111;
+      font-size:14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>CKE DANCERS</h1>
+  <h3>Dancing • Acting • Comedy • Acrobatics</h3>
+</header>
+
+<section>
+  <div class="card">
+    <h2>Who We Are</h2>
+    <p>
+      CKE Dancers ni creative group inayochanganya dance,
+      acting, comedy na acrobatics kuonyesha talent, vibes
+      na real street creativity.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Our Talents</h2>
+    <p>💃 Dance Performances</p>
+    <p>🎭 Acting & Skits</p>
+    <p>😂 Comedy</p>
+    <p>🤸 Acrobatics</p>
+  </div>
+
+  <div class="card">
+    <h2>Watch Us</h2>
+    <p><a href="#">YouTube</a></p>
+    <p><a href="#">TikTok</a></p>
+    <p><a href="#">Instagram</a></p>
+  </div>
+
+  <div class="card">
+    <h2>Book Us</h2>
+    <p>📞 WhatsApp: 07XXXXXXXX</p>
+    <p>📧 Email: ckedancers@gmail.com</p>
+  </div>
+</section>
+
+<footer>
+  © 2026 CKE Dancers | All Rights Reserved
+</footer>
+
+</body>
+</html>

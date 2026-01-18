@@ -64,6 +64,13 @@
   <div class="card">
     <h2>Our Talents</h2>
     <p>💃 Dance Performances</p>
+<div class="card">
+  <h2>Watch Our Performance</h2>
+  <video width="320" height="240" controls>
+    <source src="ffd46843cecc9707c8b4c8efa479f892.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
     <p>🎭 Acting & Skits</p>
     <p>😂 Comedy</p>
     <p>🤸 Acrobatics</p>
@@ -88,4 +95,5 @@
 </footer>
 
 </body>
+
 </html>
